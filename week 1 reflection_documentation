@@ -1,1 +1,20 @@
-!!! write reflection/ documentation here!!
+I was *super* nervous to start this class - I remember next to nothing from my one introductory Python course, and worse, I didn't even recognize the programming language we were supposed to use. 
+The second class on Thursday helped a lot, though- seeing that it was a visual coding interface, made for artists more than engineers, was a huge relief. After I was able to play around with the editor for a bit, I'm still a little nervous, but much more comfortable with the idea of trying to learn something new.
+Here's my first-ever p5.js creation, and I look forward to many more! 
+
+
+    function setup() {
+      createCanvas(400, 400);
+    }
+    
+    function draw() {
+      background("rebeccaPurple");
+      stroke("papayaWhip")
+      strokeWeight(4)
+      fill("#AEA2DE")
+      circle(200, 200, 100);
+      circle(75, 75, 50);
+      circle(325, 75, 50);
+      circle(325, 325, 50);
+      circle(75, 325, 50);
+    }
