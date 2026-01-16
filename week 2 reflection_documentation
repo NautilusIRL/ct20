@@ -1,0 +1,10 @@
+This week cleared up some of my apprehensions. I'm still nervous about doing a full-fledged project on my own, since right now I'm still pretty dependent on existing code for formatting and logic, but I'm getting there!
+
+https://editor.p5js.org/eremick/sketches/VCrFZ77kK
+^From the tuesday class, this sketch helped me learn the basics of WEBGL, OrbitControl(), and rotation. I was also able to get the torus rainbow-colored on my own, which I was proud of!
+
+https://editor.p5js.org/eremick/sketches/wDrtj5R3M
+^My first sketch from the Thursday class. It was great to learn how to upload images, but right now the timer is synced to the system clock rather than an independent stopwatch, so I'm still figuring that out. However, I'm continually able to branch off from the lecture materiel more and more, and that's awesome.
+
+https://editor.p5js.org/eremick/sketches/Lj7a8COJA
+^This is the prototype for my clock assignment, still very much a work in progress. I'm planning to have the moon move incrementally farther away from the other ellipse (which will be the Earth) at what will probably be an imperceptible rate. I haven't done the (1/4 per year)/(0.X pixels per second) math yet, but that's next on the list.
